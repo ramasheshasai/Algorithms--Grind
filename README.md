@@ -32,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
+## Math
+|  |
+| ------- |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
+## Greedy
+|  |
+| ------- |
+| [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 <!---LeetCode Topics End-->
