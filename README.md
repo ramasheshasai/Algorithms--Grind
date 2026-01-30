@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0015-3sum) |
+| [0643-maximum-average-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0643-maximum-average-subarray-i) |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 ## Two Pointers
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
