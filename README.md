@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0035-search-insert-position) |
 | [0219-contains-duplicate-ii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0455-assign-cookies) |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0643-maximum-average-subarray-i) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
