@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0015-3sum) |
 | [0219-contains-duplicate-ii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0219-contains-duplicate-ii) |
+| [0238-product-of-array-except-self](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0643-maximum-average-subarray-i) |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0238-product-of-array-except-self) |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
 ## Math
 |  |
