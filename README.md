@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0643-maximum-average-subarray-i) |
+| [0860-lemonade-change](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0860-lemonade-change) |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 ## Two Pointers
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0860-lemonade-change) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
