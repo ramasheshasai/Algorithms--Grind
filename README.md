@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0055-jump-game) |
 | [0219-contains-duplicate-ii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0238-product-of-array-except-self) |
 | [0455-assign-cookies](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0455-assign-cookies) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0860-lemonade-change) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0035-search-insert-position) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
