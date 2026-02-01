@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2418-sort-the-people](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2418-sort-the-people) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0904-fruit-into-baskets) |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2418-sort-the-people) |
@@ -62,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0238-product-of-array-except-self) |
 | [1004-max-consecutive-ones-iii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1248-count-number-of-nice-subarrays) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0007-reverse-integer) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3099-harshad-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3099-harshad-number) |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
