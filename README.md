@@ -117,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
