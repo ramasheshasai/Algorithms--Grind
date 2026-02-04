@@ -132,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0181-employees-earning-more-than-their-managers) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
