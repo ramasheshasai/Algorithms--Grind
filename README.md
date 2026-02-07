@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -115,11 +116,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0055-jump-game) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2451-odd-string-difference) |
