@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0860-lemonade-change) |
 | [0954-array-of-doubled-pairs](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0954-array-of-doubled-pairs) |
+| [1382-balance-a-binary-search-tree](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1382-balance-a-binary-search-tree) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0110-balanced-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0386-lexicographical-numbers) |
+| [1382-balance-a-binary-search-tree](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1382-balance-a-binary-search-tree) |
 ## Trie
 |  |
 | ------- |
@@ -152,8 +154,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0110-balanced-binary-tree) |
+| [1382-balance-a-binary-search-tree](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1382-balance-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
