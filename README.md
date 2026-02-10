@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0455-assign-cookies) |
 | [0643-maximum-average-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0643-maximum-average-subarray-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0455-assign-cookies) |
 | [0954-array-of-doubled-pairs](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0954-array-of-doubled-pairs) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0268-missing-number) |
 | [0904-fruit-into-baskets](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0904-fruit-into-baskets) |
 | [0954-array-of-doubled-pairs](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0954-array-of-doubled-pairs) |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0268-missing-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0268-missing-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1004-max-consecutive-ones-iii) |
 ## Dynamic Programming
@@ -201,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
