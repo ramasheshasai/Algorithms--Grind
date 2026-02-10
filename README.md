@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2451-odd-string-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2451-odd-string-difference) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
 |  |
@@ -176,4 +178,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
+## Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Simulation
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
