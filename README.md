@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2451-odd-string-difference) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3637-trionic-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3637-trionic-array-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2418-sort-the-people](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2451-odd-string-difference) |
+| [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
 ## Stack
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1248-count-number-of-nice-subarrays) |
+| [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -164,8 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
