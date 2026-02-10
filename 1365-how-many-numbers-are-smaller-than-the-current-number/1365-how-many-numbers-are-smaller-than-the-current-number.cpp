@@ -4,13 +4,13 @@ public:
         int n = nums.size();
         vector<int>ans;
         for(int i=0;i<n;i++){
-            int small = 0;
-            for(int j = 0;j<n;j++){
-                if(j!=i && nums[j] < nums[i]){
-                    small ++;
+            int count = 0;
+            for(int j=0;j<n;j++){
+                if(j!=i && nums[i] > nums[j]){
+                    count++;
                 }
             }
-            ans.push_back(small);
+            ans.push_back(count);
         }
         return ans;
     }
