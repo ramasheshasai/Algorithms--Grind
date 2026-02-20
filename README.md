@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0338-counting-bits) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 ## String
 |  |
@@ -216,4 +217,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
