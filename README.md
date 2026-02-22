@@ -223,4 +223,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0338-counting-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0693-binary-number-with-alternating-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->
