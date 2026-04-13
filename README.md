@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2418-sort-the-people](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2451-odd-string-difference) |
