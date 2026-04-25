@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2451-odd-string-difference](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2451-odd-string-difference) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 ## Stack
 |  |
 | ------- |
