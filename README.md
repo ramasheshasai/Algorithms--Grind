@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0904-fruit-into-baskets) |
 | [0954-array-of-doubled-pairs](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0954-array-of-doubled-pairs) |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
+| [1189-maximum-number-of-balloons](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1189-maximum-number-of-balloons](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1189-maximum-number-of-balloons) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1833-maximum-ice-cream-bars) |
 ## Enumeration
