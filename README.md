@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1004-max-consecutive-ones-iii) |
 | [1124-longest-well-performing-interval](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1248-count-number-of-nice-subarrays) |
+| [1288-remove-covered-intervals](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1732-find-the-highest-altitude](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1732-find-the-highest-altitude) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0455-assign-cookies) |
 | [0954-array-of-doubled-pairs](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0954-array-of-doubled-pairs) |
+| [1288-remove-covered-intervals](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1288-remove-covered-intervals) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1798-maximum-number-of-consecutive-values-you-can-make](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1798-maximum-number-of-consecutive-values-you-can-make) |
 | [1833-maximum-ice-cream-bars](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/1833-maximum-ice-cream-bars) |
