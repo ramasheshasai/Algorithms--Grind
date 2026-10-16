@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3637-trionic-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3637-trionic-array-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2418-sort-the-people) |
 | [2451-odd-string-difference](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2451-odd-string-difference) |
 | [2540-minimum-common-value](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2540-minimum-common-value) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
 ## Linked List
 |  |
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
