@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3637-trionic-array-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3719-longest-balanced-subarray-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2457-minimum-addition-to-make-integer-beautiful](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2457-minimum-addition-to-make-integer-beautiful) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3099-harshad-number](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3099-harshad-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3783-mirror-distance-of-an-integer](https://github.com/ramasheshasai/Algorithms--Grind/tree/master/3783-mirror-distance-of-an-integer) |
 ## Greedy
 |  |
